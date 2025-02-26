@@ -14,10 +14,10 @@ Or if you have Android NDK already, just specify NDK location and
 issue following command:
 ```
 make havendk NDK=/opt/android-ndk-r12b
-```
+```sumsang S9+ Android​10
 
 Transfer binaries and supporting files to android (adb, wireless, ...)
-
+Wifi
 
 ### OpenSSL support
 
